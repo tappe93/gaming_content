@@ -1,6 +1,6 @@
 # gaming_content
 
-This repo is still WIP, feel free to [submit an issue](https://github.com/tappe93/awesome-game-essays/issues/new) or [submit a pull-request](https://github.com/tappe93/awesome-game-essays/pulls).
+This repo is still WIP, feel free to [submit an issue](https://github.com/tappe93/awesome-game-essays/issues/new) or [submit a pull-request](https://github.com/tappe93/gaming_content/pulls).
 
 ## Index
 
@@ -23,7 +23,7 @@ This repo is still WIP, feel free to [submit an issue](https://github.com/tappe9
 - [Laymen Gaming](https://www.youtube.com/channel/UCwpmyAEOxIFmiXHFk4XbLMA) - game news, hosted by Skill Up and his brother.
 
 
-> Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
+> Know some interesting channel to add here? Feel free to [submit a Pull-request](https://github.com/tappe93/gaming_content/pulls)!
 
 ## Noteworthy videos<a name="videos"></a>
 
@@ -34,11 +34,11 @@ This repo is still WIP, feel free to [submit an issue](https://github.com/tappe9
 - ["The Most Profound Moment in Gaming History"](https://www.youtube.com/watch?v=jIYBod0ge3Y) and [Part 2](https://www.youtube.com/watch?v=PZojlidqhcM)
 - ["The Secrets of GoldenEye's AI Revealed"](https://youtu.be/M9sOE376tzk)
 
-> Know some interesting particular video to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
+> Know some interesting particular video to add here? Feel free to [submit a Pull-request](https://github.com/tappe93/gaming_content/pulls)!
 
 ## Interesting articles<a name="articles"></a>
 
 - ["What Metal Gear Solid 2 Teaches Us About The Information Age"](http://www.gamesetwatch.com/2010/06/what_metal_gear_solid_teaches.php)
 
-> Know some interesting particular written article to add here? Feel free to [submit a Pull-request](https://github.com/filfreire/awesome-game-essays/pulls)!
+> Know some interesting particular written article to add here? Feel free to [submit a Pull-request](https://github.com/tappe93/gaming_content/pulls)!
 
